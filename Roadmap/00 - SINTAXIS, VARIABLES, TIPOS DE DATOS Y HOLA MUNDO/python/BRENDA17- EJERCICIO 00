@@ -1,0 +1,19 @@
+#https://www.python.org#
+#ESTO ES UN COMENTARIO DE UNA SOLA LINEA#
+""" ESTO ES UN COMENTARIO DE VARIAS LINEAS QUE SE ABREN CON COMILLAS 
+SIMPLES LAS CUALES TAMBIEN PODRIA SER ESTAS COMILLAS('')
+"""
+#CREAR VARIABLES#
+MY_VARIABLE = 10
+print(MY_VARIABLE) #salida da 10#
+
+#CREAR VARIABLES REPRESENTANDO DATOS PRIMITIVOS#
+FLOAT = 3.14  #LLEVAN COMA DECIMAL#
+INT = 17 # SON NUMEROS ENTEROS#
+STR = "i love you" #es una cadena#
+boolaneo = falso #puede tomar 2 valores ya sea verdadero o falso #
+lista = [manzana, fresa, naranja]  #almacena coleccion ordenada y modificable#
+# Imprime por terminal el texto: "¡Hola, [y el nombre de tu lenguaje]!"#
+nombre_lenguaje = "PYTHON"
+print("¡HOLA, EL LENGUAJE QUE USO ES " nombre_lenguaje "!") 
+#esto imprimira ¡HOLA EL LENGUAJE QUE USO ES PYTHON!#
