@@ -1,0 +1,43 @@
+a = 1
+b = 3
+
+#aritmeticos
+x = a + b
+print(x)
+x = a - b
+print(x)
+x = a * b
+print(x)
+x = a / b
+print(x)
+#comparacion
+if n1 == n2:
+print("son iguales")
+elif:
+print("son desiguales")
+if n1 != n2
+print("son diferente")
+elif:
+print(" son iguales")
+if n1 > n2:
+print(n1, "es mayor")
+elif:
+print("es menor")
+if n1 >= n2:
+print("es correcto")
+else:
+print("es incorrecto")
+else:
+print(" no procede")
+#logicos
+z = (n1 > 0) and (n2 < 0)
+p =  (n1 > 0) or (n2 < 0)
+m =  not (n1 > 0)
+print("and: ", z)
+print("or: ", p)
+print("not: ", m)
+#estructuras de control
+for i in range(10,55):
+if i % 2 == 0 and i != 16 and i % 3 != 0:
+print(i)
+
